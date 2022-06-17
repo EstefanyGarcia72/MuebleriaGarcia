@@ -21,6 +21,7 @@ section {
 }
 section h1 {
   padding: 100px;
+  text-align: center;
 }
 
 footer {
@@ -33,6 +34,14 @@ footer i {
   font-size: 50px;
   color: black;
   letter-spacing: 20px;
+}
+
+ul {
+  display: inline;
+}
+ul img {
+  height: 200px;
+  width: 200px;
 }
 
 nav {

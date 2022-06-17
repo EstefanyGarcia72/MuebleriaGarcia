@@ -27,6 +27,7 @@ section{
     font-family: $foont1;
     h1{
         padding: 100px;
+        text-align: center;
     }
 }
 
@@ -42,5 +43,12 @@ footer{
         letter-spacing: 20px;
     }
 }
+ul{
+    img{
+        height: 200px;
+        width: 200px;
 
+    }
+    display: inline;
+}
 @import "_menu";
